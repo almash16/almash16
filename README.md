@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almash16
 - 👀 I’m interested in mobile app devlopment
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ios dev
 - 📫 How to reach me shahzadalmash0@gmail.com
 
